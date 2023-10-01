@@ -1,0 +1,15 @@
+/Users/bcoleman/Developer/CodingDojo/CSharp/ORMs/ORM-LinqEruption/LinqEruption/bin/Debug/net6.0/LinqEruption
+/Users/bcoleman/Developer/CodingDojo/CSharp/ORMs/ORM-LinqEruption/LinqEruption/bin/Debug/net6.0/LinqEruption.deps.json
+/Users/bcoleman/Developer/CodingDojo/CSharp/ORMs/ORM-LinqEruption/LinqEruption/bin/Debug/net6.0/LinqEruption.runtimeconfig.json
+/Users/bcoleman/Developer/CodingDojo/CSharp/ORMs/ORM-LinqEruption/LinqEruption/bin/Debug/net6.0/LinqEruption.dll
+/Users/bcoleman/Developer/CodingDojo/CSharp/ORMs/ORM-LinqEruption/LinqEruption/bin/Debug/net6.0/LinqEruption.pdb
+/Users/bcoleman/Developer/CodingDojo/CSharp/ORMs/ORM-LinqEruption/LinqEruption/obj/Debug/net6.0/LinqEruption.csproj.AssemblyReference.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/ORMs/ORM-LinqEruption/LinqEruption/obj/Debug/net6.0/LinqEruption.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bcoleman/Developer/CodingDojo/CSharp/ORMs/ORM-LinqEruption/LinqEruption/obj/Debug/net6.0/LinqEruption.AssemblyInfoInputs.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/ORMs/ORM-LinqEruption/LinqEruption/obj/Debug/net6.0/LinqEruption.AssemblyInfo.cs
+/Users/bcoleman/Developer/CodingDojo/CSharp/ORMs/ORM-LinqEruption/LinqEruption/obj/Debug/net6.0/LinqEruption.csproj.CoreCompileInputs.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/ORMs/ORM-LinqEruption/LinqEruption/obj/Debug/net6.0/LinqEruption.dll
+/Users/bcoleman/Developer/CodingDojo/CSharp/ORMs/ORM-LinqEruption/LinqEruption/obj/Debug/net6.0/refint/LinqEruption.dll
+/Users/bcoleman/Developer/CodingDojo/CSharp/ORMs/ORM-LinqEruption/LinqEruption/obj/Debug/net6.0/LinqEruption.pdb
+/Users/bcoleman/Developer/CodingDojo/CSharp/ORMs/ORM-LinqEruption/LinqEruption/obj/Debug/net6.0/LinqEruption.genruntimeconfig.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/ORMs/ORM-LinqEruption/LinqEruption/obj/Debug/net6.0/ref/LinqEruption.dll
